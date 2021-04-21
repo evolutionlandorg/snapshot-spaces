@@ -7,7 +7,7 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x13eFAb8a0E6b87a61971F78519db0c85d32b68A9",
+        "address": "0xfEaaD116A6AA5ce7FB2D5Adc66Cf66fc64548CFB",
         "symbol": "Power",
         "decimals": 18
       }
